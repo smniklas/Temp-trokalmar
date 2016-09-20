@@ -1,0 +1,21 @@
+html{
+    margin:0;
+    font-family: 'Oswald', sans-serif;
+}
+.logo{
+    position: absolute;
+    top:10%;
+    width:100%;
+    text-align: center;
+}
+.banner{
+    position: absolute;
+    width: 100%;
+    top:50%;
+    text-align: center;
+    border-top: 15px solid #674172;
+    border-bottom: 15px solid #674172;
+}
+.aligndiv{
+    display:inline-block;
+}
